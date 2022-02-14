@@ -118,7 +118,7 @@
                     android:layout_below="@id/imageView3"
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="10dp"
-                    android:text="Hướng dẫn sử dụng"
+                    android:text="Hướng dẫn"
                     android:textColor="@color/black"
                     android:textSize="18sp" />
 
