@@ -120,7 +120,7 @@
                     android:layout_marginTop="10dp"
                     android:text="Hướng dẫn"
                     android:textColor="@color/black"
-                    android:textSize="18sp" />
+                    android:textSize="24sp" />
 
                 <ImageView
                     android:id="@+id/imageView3"
@@ -165,7 +165,7 @@
                     android:layout_below="@id/bus1"
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="10dp"
-                    android:text="Map"
+                    android:text="Bản đồ"
                     android:textColor="@color/black"
                     android:textSize="24sp" />
 
